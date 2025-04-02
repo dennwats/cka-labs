@@ -1,4 +1,4 @@
-# 🎓 RHCA Learning Journey – dennwats
+# 🎓 RHCA Learning Journey 
 
 This repo documents my journey to becoming a Red Hat Certified Architect (RHCA) with an OpenShift focus.
 
