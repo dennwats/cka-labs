@@ -21,7 +21,6 @@ This repo documents my journey to becoming a Red Hat Certified Architect (RHCA) 
 - `scripts/` – Bash + Python tooling for automation and scripting  
 - `screenshots/` – Supporting visuals for each lab session  
 - `roadmap.md` – Weekly study + lab progression (public tracker)  
-- `rhca-mastery-roadmap.md` – Detailed 12-week plan with projects and milestones  
 
 ---
 
