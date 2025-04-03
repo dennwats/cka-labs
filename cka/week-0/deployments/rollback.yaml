@@ -1,0 +1,2 @@
+# This assumes a previous rollout has occurred
+kubectl rollout undo deployment web-deploy

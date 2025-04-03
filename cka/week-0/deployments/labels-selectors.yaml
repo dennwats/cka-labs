@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: label-demo
+  labels:
+    app: demo
+    tier: frontend
+spec:
+  containers:
+    - name: app
+      image: nginx
