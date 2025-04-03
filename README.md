@@ -1,29 +1,45 @@
-## 🎓 RHCA Learning Journey
+# 🧠 OpenShift RHCA Journey
 
-This repo documents my journey to becoming a Red Hat Certified Architect (RHCA) with an OpenShift focus.
-
----
-
-### 🔅 Current Focus
-
-- [x] CKAD 🛠️ (reviewing during Week 0 — exam scheduled this week)
-- [ ] CKA 📦 (starting Week 1 — April 7)
-- [ ] RHCE ⚙️ (starting Week 6)
-- [ ] EX280 — OpenShift Admin 🧱 (starting Week 9)
+Documenting my full journey to become a Red Hat Certified OpenShift Architect — focused on hybrid GovTech systems, Linux mastery, and automation with OpenShift and Kubernetes.
 
 ---
 
-### 📂 Repo Structure
+## 🎯 Cert Path (Current Phase)
+```
+CKAD → CKA → RHCE → EX280 → RHCA: OpenShift (12-week cycles)
+```
 
-- `cka/` – Kubernetes labs by week  
-- `rhce/` – Ansible and Linux system automation  
-- `ex280/` – OpenShift platform administration  
-- `scripts/` – Bash + Python tooling for automation and scripting  
-- `screenshots/` – Supporting visuals for each lab session  
-- `roadmap.md` – Weekly study + lab progression (public tracker)  
+## 📁 Repository Structure
+
+| Path | Purpose |
+|------|---------|
+| `cka/week-0/` | CKAD review labs (configs, services, deployments) |
+| `cka/week-1/` | CKA cluster install labs (starts April 7) |
+| `rhce/week-6/` | Ansible automation + system roles |
+| `ex280/week-9/` | OpenShift platform labs |
+| `scripts/` | Bash + Python tooling |
+| `screenshots/` | Visuals for README/lab steps |
+| `.internal/` | Private roadmap + tracking (not exposed to public)
 
 ---
 
-Each lab folder includes YAML manifests, supporting scripts, and documentation.  
-This repo serves as both my portfolio and a reference for others pursuing OpenShift and DevOps certification paths.
+## 🧪 Labs + Progress
 
+All progress tracked in this [pinned issue](https://github.com/dennwats/openshift-rhca-journey/issues/1) and in [`roadmap.md`](roadmap.md).
+
+---
+
+## 🔗 Weekly Updates
+
+This repository is updated **weekly** with new labs, GitHub pushes, scripting projects, and milestone builds. Follow the journey via:
+
+- 📸 Screenshots (per-lab)
+- ✅ YAML and Bash/Python
+- 🔁 GitOps, automation, and Ansible practices
+
+---
+
+## 📌 Coming Soon
+- Full OpenShift automation
+- Advanced CI/CD
+- DevSecOps pipelines
