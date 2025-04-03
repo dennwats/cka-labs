@@ -1,27 +1,27 @@
-# 🎓 RHCA Learning Journey 
+## 🎓 RHCA Learning Journey
 
 This repo documents my journey to becoming a Red Hat Certified Architect (RHCA) with an OpenShift focus.
 
 ---
 
-## 🧭 Current Focus
+### 🔅 Current Focus
 
-- [ ] CKAD 🛠️ (currently preparing)
-- [ ] CKA ⬜ (starting Week 1 – April 7)
-- [ ] RHCE ⬜ (starting Week 6)
-- [ ] EX280 – OpenShift Admin ⬜ (starting Week 9)
+- [x] CKAD 🛠️ (reviewing during Week 0 — exam scheduled this week)
+- [ ] CKA 📦 (starting Week 1 — April 7)
+- [ ] RHCE ⚙️ (starting Week 6)
+- [ ] EX280 — OpenShift Admin 🧱 (starting Week 9)
 
 ---
 
-## 🗂️ Repo Structure
+### 📂 Repo Structure
 
-- `cka/` – Kubernetes labs by week
-- `rhce/` – Ansible and Linux system automation
-- `ex280/` – OpenShift platform administration
-- `scripts/` – Bash + Python tooling for automation and scripting
-- `screenshots/` – Supporting visuals for each lab session
-- `roadmap.md` – Weekly study + lab progression (public tracker)
-- `rhca-mastery-roadmap.md` – Detailed 12-week plan with projects and milestones
+- `cka/` – Kubernetes labs by week  
+- `rhce/` – Ansible and Linux system automation  
+- `ex280/` – OpenShift platform administration  
+- `scripts/` – Bash + Python tooling for automation and scripting  
+- `screenshots/` – Supporting visuals for each lab session  
+- `roadmap.md` – Weekly study + lab progression (public tracker)  
+- `rhca-mastery-roadmap.md` – Detailed 12-week plan with projects and milestones  
 
 ---
 
