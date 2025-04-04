@@ -89,20 +89,5 @@ jobs:
         run: yamllint .
 EOF
 
-# Social media templates
-cat <<EOF > social/twitter-posts.md
-# Twitter Post Templates
-
-- Week 1:
-"Started my RHCA OpenShift journey! Set up kubeadm, explored etcd, and created my first HA cluster. Let’s go! 🚀 #CKA #RHCA #OpenShift"
-EOF
-
-cat <<EOF > social/linkedin-posts.md
-# LinkedIn Post Templates
-
-✅ Week 1 complete: Built a kubeadm cluster with HA, dove into etcd and control plane internals.  
-Learning in public — one week closer to RHCA!
-EOF
-
 echo "✅ All folders and files created successfully."
 
